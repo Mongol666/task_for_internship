@@ -1,4 +1,4 @@
-package by.gpisarev;
+package by.gpisarev.parser;
 
 public enum TypeOfElement {
     LEFT_BRACKET,

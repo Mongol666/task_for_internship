@@ -1,4 +1,4 @@
-package by.gpisarev;
+package by.gpisarev.parser;
 
 import java.util.List;
 
